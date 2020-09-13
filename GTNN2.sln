@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GTNN2", "GTNN2.csproj", "{B20E6192-0A61-4CB4-B162-D1DC7E57E05E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B20E6192-0A61-4CB4-B162-D1DC7E57E05E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B20E6192-0A61-4CB4-B162-D1DC7E57E05E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B20E6192-0A61-4CB4-B162-D1DC7E57E05E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B20E6192-0A61-4CB4-B162-D1DC7E57E05E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {29D09A72-F57F-4406-AF89-D199DD736562}
+	EndGlobalSection
+EndGlobal
